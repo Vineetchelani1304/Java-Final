@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fadc9567-a303-4224-934d-3f8fd0eb6871" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Latest/newindow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Latest/Calcu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Latest/Calcu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Latest/convole.py" beforeDir="false" afterPath="$PROJECT_DIR$/Latest/convole.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Latest/mixed_output.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Latest/mixed_output.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Latest/mixing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Latest/mixing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Latest/output.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Latest/output.wav" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +50,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\vinee\Downloads\Mini\old\gui v1" />
       <recent name="C:\Users\vinee\Downloads\Mini\Latest" />
+      <recent name="C:\Users\vinee\Downloads\Mini\old\gui v1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="Calcu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Mini" />
       <option name="INTERPRETER_OPTIONS" value="" />

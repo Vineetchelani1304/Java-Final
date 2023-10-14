@@ -4,8 +4,8 @@ import soundfile as sf  # For saving audio
 
 # Step 1: Read the wave data from the input files
 # Replace 'sa.wav' and 'ni.wav' with the paths to your 'sa' and 'ni' audio files.
-audio_sa, sample_rate_sa = librosa.load('C:/Users/vinee/Downloads/Mini/old/consecutive/freqNi.wav')
-audio_ni, sample_rate_ni = librosa.load('C:/Users/vinee/Downloads/Mini/old/consecutive/freqSa.wav')
+audio_sa, sample_rate_sa = librosa.load('C:/Users/vinee/Downloads/Mini/Latest/2cat.wav')
+audio_ni, sample_rate_ni = librosa.load('C:/Users/vinee/Downloads/Mini/Latest/2car.wav')
 
 # Step 2 (Optional): Define a convolution kernel
 # If you have a specific kernel you want to convolve with, define it here.
